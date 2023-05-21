@@ -33,7 +33,7 @@ const Track = ({searchTerm, onArtistClick}: TrackProps) => {
                 const data = await response.json();
                 setTracks(data.data);
             } catch (error) {
-                toast.error("Error searching tracks:" + error);
+                toast.error("Error searching tracks:");
             }
         };
 

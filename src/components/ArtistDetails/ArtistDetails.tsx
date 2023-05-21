@@ -62,7 +62,7 @@ const ArtistDetails = ({artistId}: ArtistDetailsProps) => {
                 setAlbums(albumsData.data);
             } catch (error) {
                 // Display error message
-                toast.error("Error fetching artist details:" + error);
+                toast.error("Error fetching artist details:");
             }
         };
 

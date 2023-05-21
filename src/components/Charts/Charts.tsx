@@ -46,7 +46,7 @@ const Charts = () => {
                 setTracks(data.data);
                 setIsLoading(false);
             } catch (error) {
-                toast.error("Error fetching tracks:" + error);
+                toast.error("Error fetching tracks:");
                 setIsLoading(false);
             }
         };
