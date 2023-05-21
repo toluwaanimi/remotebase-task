@@ -1,4 +1,4 @@
-# Remote-base Task
+# Remote-more Task
 
 This is a React application built with Vite, a fast and opinionated build tool for React projects. The application
 allows users to search for tracks, view track details, and browse charts. It integrates with the Deezer API to fetch
