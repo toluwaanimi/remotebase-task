@@ -107,6 +107,11 @@ Note: It is important to note that using a public CORS proxy in a production env
 security and performance concerns. In a production setup, it is advisable to set up your own proxy server or configure
 the server hosting your application to enable CORS.
 
+
+## Review 
+![alt text](./first.png)
+
+![alt text](./second.png)
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an
